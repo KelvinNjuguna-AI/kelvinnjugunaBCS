@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kelvin Njuguna</h1>
-<h3 align="center"> 💻 Software Engineer | 🤖 AI & Machine Learning Enthusiast</h3>
+<h3 align="center"> 💻 Software | 🤖 Applied AI & Machine Learning Engineer</h3>
 
 ---
 
